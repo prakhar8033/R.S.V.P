@@ -91,6 +91,6 @@ Bingo, now you have an excel file in the `/Results` directory named `data.xlsx` 
 
 ## Contact Information
 
-> ***Prakhar Saxena :*** **`saxenaprakhar221@gmail.com`**
-> ***Virat Singh Tomer :*** **`virat.singh@criodo.com`**
-> ***Shivangi Mall :*** **`shivangi.mall@criodo.com`**
+> **Prakhar Saxena :** *`saxenaprakhar221@gmail.com`*
+> **Virat Singh Tomer :** *`virat.singh@criodo.com`*
+> **Shivangi Mall :** *`shivangi.mall@criodo.com`*
