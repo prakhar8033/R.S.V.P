@@ -1,7 +1,7 @@
 import openai
 
 def TranscriptGenerator(text):
-    openai.api_key = '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'
+    openai.api_key = '----your--openai--api--key----'
     # calling chatgpt openai
     response = openai.Completion.create(
 
