@@ -69,6 +69,7 @@ Bingo, now you have an excel file in the directory named `result.xlsx` that cont
 
 + Optimization of the rating model
 + Providing the feedback to the Sales person based on the conversation and the rating
++ 
 + Usage of different languages in recordings
 
 ## Future Scope
