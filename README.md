@@ -62,15 +62,19 @@ Clone/Download the code to your local machine. Pull the code stubs/Unpack the fi
 
 And finally, run the `App.py` file in your terminal like below:
 
-Bingo, now you have an excel file in the directory named `result.xlsx` that contains the ratings of the recordings you were looking for. Enjoy!
+```
+python App.py
+```
+
+The directory `audioFiles` should contain the call recordings given as an input.
+
+Bingo, now you have an excel file in the `/Results` directory named `data.xlsx` that contains the ratings of the recordings you were looking for. Enjoy! :tada:
 
 
 ## Areas of Improvement
 
 + Optimization of the rating model
 + Providing the feedback to the Sales person based on the conversation and the rating
-
-+ 
 + Usage of different languages in recordings
 
 ## Future Scope
