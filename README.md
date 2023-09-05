@@ -66,7 +66,7 @@ And finally, run the `App.py` file in your terminal like below:
 python App.py
 ```
 
-The directory `audioFiles` should contain the call recordings given as an input.
+The directory `/audioFiles` should contain the call recordings given as an input.
 
 Bingo, now you have an excel file in the `/Results` directory named `data.xlsx` that contains the ratings of the recordings you were looking for. Enjoy! :tada:
 
