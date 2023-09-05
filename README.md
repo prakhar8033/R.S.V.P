@@ -7,6 +7,8 @@ using ChatGPT to rate a Sales call
 > Using OpenAI API for the transcription and generation of an AI model to rate the recordings.
 > Creating and writing into excel file the ratings of the corresponding calls.***
 
+------------------
+
 # Features
 
 + ***Extracting the text from audio*** files in one of these formats: flac, mp3, mp4, mpeg, mpga, m4a, ogg, wav, or webm.
@@ -19,6 +21,8 @@ using ChatGPT to rate a Sales call
 + *Private -* text extraction, transcription and quality score of call recordings happen 100% locally
 + *Fast -* uses [whisper-1](https://github.com/openai/whisper) model as the Whisper backend: get much faster transcription times on CPU!
 + *Local -* resultant excel file and transcripted files are stored locally!
+
+------------------
 
 # Setup
 
@@ -51,6 +55,8 @@ pip install os-sys
 ```
 pip install openpyxl
 ```
+
+------------------
 
 # Instructions
 
