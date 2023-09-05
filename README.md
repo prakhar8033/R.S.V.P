@@ -61,10 +61,10 @@ Clone/Download the code to your local machine. Pull the code stubs/Unpack the fi
 ***Open the Windows PowerShell as an Administrator and install the required packages given in the Setup section.*** 
 
 > ### Use the OpenAPI key in the line written in the .py files present in the directory `/src`
-
-```
-openai.api_key = '----your--openai--api--key----'
-```
+>
+>```
+>openai.api_key = '----your--openai--api--key----'
+>```
 
 And finally, run the `App.py` file in your terminal like below:
 
