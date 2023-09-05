@@ -83,11 +83,17 @@ The directory `/audioFiles` should contain the call recordings given as an input
 Bingo, now you have an excel file in the `/Results` directory named `data.xlsx` that contains the ratings of the recordings you were looking for. Enjoy! :tada:
 
 
+------------------
+
+
 ## Areas of Improvement
 
 + Optimization of the rating model
 + Providing the feedback to the Sales person based on the conversation and the rating
 + Usage of different languages in recordings
+
+------------------
+  
 
 ## Future Scope
 
@@ -95,12 +101,14 @@ Bingo, now you have an excel file in the `/Results` directory named `data.xlsx` 
 + Saving the transcripts of some ideal calls done by the Sales team
 + Redefining the parameters that judge the quality of the calls
 
+------------------
+
+
 ## Contact Information
 
 > **Prakhar Saxena :** *`saxenaprakhar221@gmail.com`*
 > **Virat Singh Tomer :** *`virat.singh@criodo.com`*
 > **Shivangi Mall :** *`shivangi.mall@criodo.com`*
->
-> 
+
 
 Made with :heart: by R.S.V.P.
