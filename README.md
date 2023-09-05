@@ -88,3 +88,9 @@ Bingo, now you have an excel file in the `/Results` directory named `data.xlsx` 
 + Creating a UI to display the statistics of the Sales team. (on team level/person-to-person level)
 + Saving the transcripts of some ideal calls done by the Sales team
 + Redefining the parameters that judge the quality of the calls
+
+## Contact Information
+
+> Prakhar Saxena : `saxenaprakhar221@gmail.com`
+> Virat Singh Tomer : `virat.singh@criodo.com`
+> Shivangi Mall : `shivangi.mall@criodo.com`
